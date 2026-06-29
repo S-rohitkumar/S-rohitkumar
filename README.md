@@ -2,7 +2,7 @@
 
 ### Electronics & Communication Engineer
 
-I am an Electronics & Communication Engineering graduate passionate about Embedded Systems, PCB Design, IoT, and VLSI. I enjoy building hardware solutions, learning new technologies, and solving real-world engineering problems.
+I am an Electronics & Communication Engineering graduate passionate about Embedded Systems, PCB Design, IoT, and VLSI. I enjoy designing embedded hardware, developing firmware, and building practical engineering solutions. I am actively seeking opportunities to contribute, learn, and grow as an Embedded or VLSI Engineer.
 
 ---
 
@@ -44,7 +44,15 @@ I am an Electronics & Communication Engineering graduate passionate about Embedd
 
 ## 📂 Featured Projects
 
-I am currently documenting and uploading my embedded systems, PCB design, IoT, and Verilog projects. They will be available here soon with complete documentation, source code, and circuit diagrams.
+🚧 Projects are currently being organized and documented.
+
+The following repositories will be published soon:
+
+- 🌿 Smart Air Purifier IoT
+- ❤️ IoT Health Monitoring System
+- 🔌 PCB Design Portfolio
+- 🤖 Arduino Projects
+- 💻 Verilog & RTL Design Projects
 
 ---
 
