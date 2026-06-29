@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Rohit Kumar 👋
 
-<!--
-**S-rohitkumar/S-rohitkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineer
 
-Here are some ideas to get you started:
+I am an Electronics & Communication Engineering graduate passionate about Embedded Systems, PCB Design, IoT, and VLSI. I enjoy building hardware solutions, learning new technologies, and solving real-world engineering problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Skills
+
+- Embedded Systems
+- Arduino
+- ESP8266 / ESP32
+- PCB Design (EasyEDA)
+- PCB Layout (EasyEDA)
+- C Programming
+- Verilog
+- System Verilog (Basic)
+- Digital Electronics
+- IoT
+
+---
+
+## 📂 Featured Projects
+
+- Comming Soon...
+
+---
+
+## 🌱 Currently Learning
+
+- Embedded C
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as an Embedded Systems, Hardware Design, PCB Design, or VLSI Engineer where I can contribute, learn, and grow.
+
+---
+
+## 📫 Connect With Me
+
+- 📍 New Delhi, India
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-kumar-dv-er/
+
+
+---
+
+⭐ Thank you for visiting my profile!
