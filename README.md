@@ -34,7 +34,7 @@ I am an Electronics & Communication Engineering graduate passionate about Embedd
 <img src="https://img.shields.io/badge/EasyEDA-FF6A00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Verilog-B22222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SystemVerilog-Basic-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Digital%20Electronics-6A1B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RTL%20Design-1E88E5?style=for-the-badge"/>
 
